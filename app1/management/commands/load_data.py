@@ -6,7 +6,7 @@ class Command(BaseCommand):
     help = 'Load water footprint data from Excel file'
 
     def handle(self, *args, **kwargs):
-        file_path = r'D:\hydroscope\Wfp.xlsx'  # Ensure this path is correct
+        file_path = r'D:\hydroscope\hydro\Wfp.xlsx'  # Ensure this path is correct
         df = pd.read_excel(file_path)
 
         # Print columns for debugging (you can remove this once it works)
