@@ -15,7 +15,7 @@ Hydroscope allows users to assess and visualize the water footprint of a wide ra
 
 A short video demonstration of the Hydroscope application is available below:
 
-![Demo Video](https://github.com/Abhinavv2k5/Hydroscope/blob/demo/demo.mp4)
+![Demo Video](https://github.com/Abhinavv2k5/Hydroscope/blob/main/demo/demo.mp4)
 
 If the video does not play directly, [click here to view/download the demo](https://github.com/Abhinavv2k5/Hydroscope/blob/main/demo/demo.mp4).
 
